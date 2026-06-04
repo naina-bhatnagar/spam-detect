@@ -25,7 +25,7 @@ Internship Scam Detection/
 
 ```
 
-## 🚀 Installation & Setup
+## Installation & Setup
 
 To run this project locally, follow these steps:
 
@@ -64,7 +64,7 @@ venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-## 💻 Usage
+## Usage
 
 Once your environment is activated and dependencies are installed, start the Flask server:
 
@@ -74,7 +74,7 @@ flask run
 
 Open your web browser and navigate to `http://127.0.0.1:5000` to view the application. Enter the details of an internship posting, and the ML pipeline will analyze the inputs and return a confidence score indicating the likelihood of it being a scam.
 
-## 🧠 Model Methodology (`notebooks/internship_scam_detection.ipynb`)
+## Model Methodology (`notebooks/internship_scam_detection.ipynb`)
 
 The machine learning core of this application was built and optimized using `scikit-learn` in a Jupyter Notebook. The notebook walks through the entire lifecycle from raw data to a deployed model.
 
@@ -94,7 +94,7 @@ The final optimized model achieved the following results on the isolated test se
 * **Scam Precision:** 74% (When it flags a scam, it is correct 74% of the time)
 * **Scam Recall:** 63% (It successfully catches 63% of all actual scams)
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * **Frontend:** HTML5, CSS3, Vanilla JavaScript (Fetch API)
 * **Backend:** Python, Flask, Flask-CORS
@@ -102,8 +102,23 @@ The final optimized model achieved the following results on the isolated test se
 
 ---
 
-> Created by Naina Bhatnagar
+## Created by
 
-> [Connect on linkedin](https://www.linkedin.com/in/nainabhatnagar/) <br>[Connect on github](https://github.com/naina-bhatnagar)
+> Naina Bhatnagar
+
+* **Socials**
+* [Connect on linkedin](https://www.linkedin.com/in/nainabhatnagar/) 
+* [Connect on github](https://github.com/naina-bhatnagar)
 
 ---
+
+
+
+
+
+
+
+
+
+
+
