@@ -2,6 +2,14 @@
 
 A full-stack machine learning application designed to detect fraudulent or spam internship postings. This project uses a trained supervised learning model (Decision Tree) served via a Flask backend, with a responsive web interface for users to analyze job descriptions and requirements.
 
+---
+
+**Live Demo: https://spam-detect-saj2.onrender.com**
+
+> Currently uses Flask's development server. Production deployment with Gunicorn is planned.
+
+---
+
 ## Project Structure
 
 ```text
